@@ -1,4 +1,4 @@
-FROM unbuntu
+FROM ubuntu
 MAINTAINER jagadeesh
 LABEL this is my first docker file 
 EXPOSE 80
